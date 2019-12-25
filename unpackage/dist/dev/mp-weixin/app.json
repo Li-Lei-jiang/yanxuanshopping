@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/homepags/homepags",
+    "pages/search/search",
+    "pages/min/min",
+    "pages/min/login/login",
+    "pages/min/compileUser/compileUser",
+    "pages/search/hotDetails/hotDetails"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/homepags/homepags",
+        "iconPath": "static/tabBarIco/index.png",
+        "selectedIconPath": "static/tabBarIco/index_sel.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/search/search",
+        "iconPath": "static/tabBarIco/search.png",
+        "selectedIconPath": "static/tabBarIco/search_sel.png",
+        "text": "搜索"
+      },
+      {
+        "pagePath": "pages/min/min",
+        "iconPath": "static/tabBarIco/me.png",
+        "selectedIconPath": "static/tabBarIco/me_sel.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的账号",
+  "backgroundColor": "yellow",
+  "usingComponents": {
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup"
+  }
+}

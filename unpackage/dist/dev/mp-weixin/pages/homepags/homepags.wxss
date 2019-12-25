@@ -1,0 +1,156 @@
+
+.slideshow_tp {
+	width: 100%;
+	height: 400rpx;
+}
+.slideshow_tp image {
+	width: 100%;
+	height: 100%;
+}
+.hot_ {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding-left: 2%;
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.hot_tp {
+	width: 50rpx;
+	height: 50rpx;
+}
+.hot_tp image {
+	width: 100%;
+	height: 100%;
+}
+.hot_title {
+	width: 214rpx;
+	/* line-height: 60rpx; */
+	text-align: center;
+	font-weight: bold;
+}
+.preview {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.preview_tp {
+	width: 300rpx;
+	height: 366rpx;
+}
+.preview_tp image {
+	width: 100%;
+	height: 100%;
+}
+.preview_name {
+	width: 300rpx;
+	line-height: 60rpx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.preview_xing {
+	width: 300rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.preview_item {
+	margin: 0 2%;
+}
+.preview_xing_x {
+	padding-top: 38rpx;
+}
+.HomeData_vide {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.vide_k {
+	width: 348rpx;
+	height: 250rpx;
+	margin: 1% auto;
+}
+.vide_k video {
+	width: 100%;
+	height: 100%;
+}
+.love_item {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	margin: 4% 0;
+	padding: 0 2%;
+	height: 350rpx;
+}
+.love_item_all {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	border-right: 1rpx dashed #cdcdcd ;
+}
+.love_item_all_tp {
+	width: 350rpx;
+	height: 350rpx;
+}
+.love_item_all_tp image {
+	width: 100%;
+	height: 100%;
+}
+.zan {
+	width: 50rpx;
+	height: 50rpx;
+	margin: 0 auto;
+}
+.zan image {
+	width: 100%;
+	height: 100%;
+}
+.love_item_center {
+	padding-left: 3%;
+	height: 350rpx;
+}
+.love_item_center_name {
+	/* font-weight: bold; */
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	/* position: relative; */
+	/* line-height: 80rpx; */
+	/* font-weight: bold; */
+	font-size: 32rpx;
+}
+.love_item_basicInfo {
+	/* width: 80%; */
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	color: #cdcdcd;
+	font-size: 34rpx;
+}
+.love_rig_txt {
+	color: #FFE3B4;
+	text-align: center;
+}
+.love_rig {
+	width: 200rpx;
+	line-height: 350rpx;
+	height: 350rpx;
+}
+.love_xing {
+	height: 60rpx;
+}
+.love_xing_ {
+	padding-top: 30rpx;
+}
+.love_item_releaseDate {
+	margin-top: 1%;
+}
+
